@@ -1,0 +1,44 @@
+nav ul li a:visited {
+		color: white;
+	}
+
+	h5 {
+		clear: left;
+	}
+
+	.colorscheme {
+		border: solid 1px black;
+		width: 212px;
+	}
+
+	.orange {
+		background-color: #FFA319;
+		float:left;
+		width: 50px;
+		height: 50px;
+		margin: 10px;
+	}
+
+	.yellow {
+		background-color: #FFD633;
+		display: inline-block;
+		width: 50px;
+		height: 50px;
+		margin: 10px;
+	}
+
+	.ruby {
+		background-color: #FF6262;
+		float:right;
+		width: 50px;
+		height: 50px;
+		margin: 10px;
+	}
+
+	
+
+		<h5> Color Scheme </h5>
+		<div class="colorscheme">
+			<div class="orange"></div>
+			<div class="yellow"></div>
+			<div class="ruby"></div>
